@@ -1024,6 +1024,20 @@ entries:
   kommander:
   - apiVersion: v1
     appVersion: 1.0.0
+    created: "2020-02-23T19:31:06.547786-08:00"
+    description: Kommander
+    digest: cf82a971d3c1c4a8210ebdd1bbe9affd22b2f7ea894a72f5badb9cfe849ba4b1
+    home: https://github.com/samvantran/charts
+    maintainers:
+    - name: hectorj2f
+    - name: alejandroEsc
+    - name: jimmidyson
+    name: kommander
+    urls:
+    - https://samvantran.github.io/charts/stable/kommander-0.4.16.tgz
+    version: 0.4.16
+  - apiVersion: v1
+    appVersion: 1.0.0
     created: 2020-02-20T19:50:18.400134141Z
     description: Kommander
     digest: 97c2e97397500db869961367afde2cacbe67c65e467281f71ff6f5bd54367e0f
